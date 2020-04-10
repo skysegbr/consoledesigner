@@ -1,6 +1,3 @@
-# consoledesigner
-Library positional like gotoXY 
-
 from consoledesigner.ConsoleDesingner import ConsoleDesingner, Colors
 
 
