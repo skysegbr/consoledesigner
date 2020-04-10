@@ -5,6 +5,7 @@ from consoledesigner.ConsoleDesingner import ConsoleDesingner, Colors
 
 
 cd = ConsoleDesingner()
+
 c = Colors
 
 cd.clear()
